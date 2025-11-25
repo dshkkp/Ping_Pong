@@ -1,0 +1,27 @@
+{
+  "window": {
+    "width": 1000,
+    "height": 600,
+    "panel_width": 220
+  },
+  "game": {
+    "title": "Ping Pong",
+    "win_score": 10,
+    "initial_difficulty": "Normal"
+  },
+  "paddle": {
+    "width": 10,
+    "height": 80,
+    "speed": 400
+  },
+  "ball": {
+    "size": 14,
+    "base_speed": 420
+  },
+  "difficulty_presets": {
+    "Easy": 0.5,
+    "Normal": 0.9,
+    "Hard": 1.5,
+    "Insane": 2.0
+  }
+}
