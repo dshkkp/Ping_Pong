@@ -1,5 +1,5 @@
 # Ping_Pong
-Team Project "PING PONG" Python
+Python team project 
 
 # Требования к окружению
 - Python 3.11+
